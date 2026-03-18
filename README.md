@@ -28,7 +28,7 @@ It supports:
 - Cycle‑by‑cycle instruction execution
 - Dumping register values after each instruction
 - Halting only on the `hlt` instruction
-- Tracking memory accesses and generating a **memory‑address vs cycle‑count scatter plot** (bonus)
+- Tracking memory accesses and generating a **memory‑address vs cycle‑count scatter plot**
 
 ## How to test 
 * Go to the `automatedTesting` directory and execute the `run` file with appropriate options passed as arguments.
